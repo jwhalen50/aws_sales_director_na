@@ -5,3 +5,4 @@ include: "/views/**/*.view"
 
 explore: transactions {}
 explore: aws_sales_director_na_view {}
+explore: whoami {}
